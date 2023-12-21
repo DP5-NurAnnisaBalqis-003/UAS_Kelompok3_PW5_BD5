@@ -19,13 +19,13 @@ Berikut ini adalah preview tampilan websitenya:
 4. Tampilan Update Password
 <img width="924" alt="Update Password" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/034685ba-32f1-41e3-9057-d3255370a479">
 
-6. Tampilan Member
+5. Tampilan Member
 <img width="920" alt="Member" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/322ae3d6-9f9e-4df4-9d9d-c0d5e871a006">
 
-7. Tampilan Add Member
+6. Tampilan Add Member
 ![Add Member](https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/7b9434e5-9e2c-4dc3-8d52-fdb8b038238c)
 
-8. Tampilan Edit Member
+7. Tampilan Edit Member
 ![Edit Member](https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/0291f84a-108e-4ba3-98d6-5123504150b0)
 
 8.Tampilan View Member
