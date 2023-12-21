@@ -13,8 +13,8 @@ Berikut ini adalah preview tampilan websitenya:
 <img width="920" alt="Login" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/2cac4a8e-cfbc-4d20-ba3b-875bbedfc5cb">
 
 3. Tampilan After Login
-<img width="910" alt="After Login(1)" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/b38507fa-3f6e-4ed7-9601-c59dc98bf405">
-<img width="911" alt="After Login(2)" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/b8903c38-a98f-4ee1-ad02-bf1c1226783c">
+<img width="913" alt="After Login(1)" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/964e6c92-2cc7-4b78-a50d-fde99e8bc7a9">
+<img width="915" alt="After Login(2)" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/edfb3d2e-5a5a-4a5a-b3b1-38fa64aef49e">
 
 4. Tampilan Update Password
 <img width="924" alt="Update Password" src="https://github.com/DP5-NurAnnisaBalqis-003/UAS_Kelompok3_PW5_BD5/assets/114504718/034685ba-32f1-41e3-9057-d3255370a479">
