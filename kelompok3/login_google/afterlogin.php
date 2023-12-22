@@ -63,9 +63,9 @@ if(isset($_GET['logout'])){
 </head>
 <body>
 <header>
-<nav class="navbar navbar-expand-lg navbar-dark">
+<nav class="navbar navbar-expand-lg">
             <div class="container-fluid"> 
-                <a class="navbar-logo" href="#" style="text-decoration: none;">
+                <a class="navbar-logo" style="text-decoration: none;">
                 <img src="<?= $_SESSION['login_picture'] ?>" style="cursor: pointer;  max-width: 120px;">
                 <br>
                 <?= ucwords($_SESSION['login_givenName'] . " " .$_SESSION['login_familyName']) ?> 
